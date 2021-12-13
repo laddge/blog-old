@@ -1,3 +1,54 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+# Site settings
+baseurl = "https://blog.laddge.tk/"
+languageCode = "ja-jp"
+title = "Laddge's Blog"
+theme = "hugo-cactus-theme-ldgcustom"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+# disqusShortname = "spf13"
+
+[params]
+	name = "Laddge"
+	description = "やる気なさすぎる"
+	bio = "Linux大好き高校生"
+	# Enter optionally your twitter account
+	twitter = "laddge_"
+	# enableRSS = true
+
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
+	customCSS = []
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = ""
+	# subscribe = ""
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "Linux大好き高校生"
+	tweet = ""
+	# share = ""
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "font-awesome"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = "circle"
+    about = "https://laddge.tk"
+
+# Add additional social link entries underneath
+[social]
+    instagram = "https://www.instagram.com/laddge_"
+    github   = "https://www.github.com/laddge"
+    twitter  = "https://www.twitter.com/laddge_"
+    # dribble  = "https://www.dribbble.com/"
