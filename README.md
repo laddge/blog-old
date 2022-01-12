@@ -4,4 +4,4 @@
 
 ブログ書いてます。
 
-[[ Visit ]](https://blog.laddge.tk)
+[[ Visit ]](https://blog.laddge.net)
