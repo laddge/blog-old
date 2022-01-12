@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://blog.laddge.tk/"
+baseurl = "https://blog.laddge.net/"
 languageCode = "ja-jp"
 title = "Laddge's Blog"
 theme = "hugo-cactus-theme-ldgcustom"
@@ -44,7 +44,7 @@ googleAnalytics = ""
 	iconFont = "font-awesome"
     # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
     socialIconStyle = "circle"
-    about = "https://laddge.tk"
+    about = "https://laddge.net"
 
 # Add additional social link entries underneath
 [social]

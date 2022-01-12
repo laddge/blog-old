@@ -33,4 +33,4 @@ jobs:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           external_repository: laddge/blog
           publish_branch: gh-pages
-          cname: blog.laddge.tk
+          cname: blog.laddge.net
